@@ -1,3 +1,3 @@
-### Example of using Go and Reddi'ts API with OAuth2 authentication
+### Example of using Go and Reddit's API with OAuth2 authentication
 
 
